@@ -39,8 +39,8 @@ Click the badge below to open and run the notebook directly in your browser — 
 
 ### Option 2: Run locally
 ```bash
-git clone https://github.com/Vishnudharshan-33/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Vishnudharshan-33/PyTorch-Materials.git
+cd PyTorch-Materials
 jupyter notebook PyTorch.ipynb
 ```
 

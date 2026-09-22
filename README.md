@@ -18,12 +18,13 @@ Tensors are like NumPy arrays, but supercharged for GPU acceleration. Whether yo
 
 ## 🛠️ Requirements
 
+This notebook was built and run in **Google Colab**, so no local setup is needed — Colab comes with PyTorch and NumPy pre-installed.
+
+If you'd rather run it locally:
 - Python 3.8+
 - [PyTorch](https://pytorch.org/get-started/locally/)
 - NumPy
 - Jupyter Notebook / JupyterLab
-
-Install dependencies:
 
 ```bash
 pip install torch numpy notebook
@@ -31,8 +32,12 @@ pip install torch numpy notebook
 
 ## 🚀 Usage
 
-Clone the repo and launch Jupyter:
+### Option 1: Open in Google Colab (recommended)
+Click the badge below to open and run the notebook directly in your browser — no installation required:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vishnudharshan-33/<repo-name>/blob/main/PyTorch.ipynb)
+
+### Option 2: Run locally
 ```bash
 git clone https://github.com/Vishnudharshan-33/<repo-name>.git
 cd <repo-name>
